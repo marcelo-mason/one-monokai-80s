@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.0.6
+
+- Themed error states
+
 #### v2.0.5
 
 - Themed titlebar

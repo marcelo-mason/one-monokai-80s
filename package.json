@@ -1,40 +1,40 @@
 {
-    "name": "one-monokai-80s",
-    "displayName": "One Monokai 80s Theme",
-    "description": "Pleasing, subtle yet colorful theme with a flat interface",
-    "version": "1.3.16",
-    "publisher": "axiomaticstudios",
-    "engines": {
-        "vscode": "^0.10.1"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "One Monokai 80s",
-                "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokai80s.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/marcelo-mason/one-monokai-80s.git"
-    },
-    "bugs": {
-        "url": "https://github.com/marcelo-mason/one-monokai-80s/issues"
-    },
-    "homepage": "https://github.com/marcelo-mason/one-monokai-80s/blob/master/README.md",
-    "keywords": [
-        "outrun",
-        "material",
-        "theme",
-        "pastels",
-        "monokai"
-    ],
-    "author": "Marcelo Delgado",
-    "license": "MIT"
+  "name": "one-monokai-80s",
+  "displayName": "One Monokai 80s Theme",
+  "description": "Pleasing, subtle yet colorful theme with a flat interface",
+  "version": "2.0.5",
+  "publisher": "axiomaticstudios",
+  "engines": {
+    "vscode": "^0.10.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Monokai 80s",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneMonokai80s.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelo-mason/one-monokai-80s.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcelo-mason/one-monokai-80s/issues"
+  },
+  "homepage": "https://github.com/marcelo-mason/one-monokai-80s/blob/master/README.md",
+  "keywords": [
+    "outrun",
+    "material",
+    "theme",
+    "pastels",
+    "monokai"
+  ],
+  "author": "Marcelo Delgado",
+  "license": "MIT"
 }

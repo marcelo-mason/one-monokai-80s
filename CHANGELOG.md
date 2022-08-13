@@ -1,8 +1,9 @@
 # Changelog
 
-#### v2.0.6
+#### v2.0.7
 
 - Themed error states
+- Tweaked find highlight colors
 
 #### v2.0.5
 

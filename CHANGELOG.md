@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.0.9
+
+- Add separator to bottom panel
+
 #### v2.0.7
 
 - Themed error states

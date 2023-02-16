@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.1.0
+
+- UI overhaul
+
 #### v2.0.9
 
 - Add separator to bottom panel

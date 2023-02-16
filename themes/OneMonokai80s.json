@@ -355,7 +355,7 @@
       "name": "Property",
       "scope": "support.variable.property, variable.other.property, variable.other.object.property",
       "settings": {
-        "foreground": "#93A1D2"
+        "foreground": "#8E9FDA"
       }
     },
     {
@@ -565,14 +565,14 @@
       "name": "Stylesheet Psuedo-Class",
       "scope": "entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-class.scss, entity.other.attribute-name.pseudo-class.less, entity.other.attribute-name.pseudo-class.sass",
       "settings": {
-        "foreground": "#93A1D2"
+        "foreground": "#8E9FDA"
       }
     },
     {
       "name": "Stylesheet Pseudo-Element",
       "scope": "entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-element.scss, entity.other.attribute-name.pseudo-element.less, entity.other.attribute-name.pseudo-element.sass",
       "settings": {
-        "foreground": "#93A1D2"
+        "foreground": "#8E9FDA"
       }
     },
     {

@@ -1,4 +1,4 @@
-### A cross between One Monokai and a Delorian
+## A cross between One Monokai and a Delorian
 
 ##### A pleasing, subtle yet colorful low-contrast theme with a flat interface made with eye comfort in mind.
 

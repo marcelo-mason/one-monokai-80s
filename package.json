@@ -2,7 +2,7 @@
   "name": "one-monokai-80s",
   "displayName": "One Monokai 80s Theme",
   "description": "Pleasing, subtle yet colorful theme with a flat interface",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "publisher": "axiomaticstudios",
   "engines": {
     "vscode": "^0.10.1"
@@ -29,10 +29,12 @@
   },
   "homepage": "https://github.com/marcelo-mason/one-monokai-80s/blob/master/README.md",
   "keywords": [
-    "outrun",
-    "material",
     "theme",
-    "pastels",
+    "pastel",
+    "eye",
+    "eye comfort",
+    "eye strain",
+    "low contrast",
     "monokai"
   ],
   "author": "Marcelo Delgado",

@@ -1,6 +1,6 @@
 # Changelog
 
-#### v2.1.14
+#### v2.1.15
 
 - Color tweaks
 

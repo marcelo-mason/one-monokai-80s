@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.1.13
+
+- Color tweaks
+
 #### v2.1.12
 
 - UI overhaul

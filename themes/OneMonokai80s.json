@@ -136,14 +136,14 @@
     "terminal.ansiBlue": "#6187EF",
     "terminal.ansiBrightBlack": "#6F7887",
     "terminal.ansiBrightBlue": "#6187EF",
-    "terminal.ansiBrightCyan": "#7FC697",
-    "terminal.ansiBrightGreen": "#56B6C2",
+    "terminal.ansiBrightCyan": "#56B6C2",
+    "terminal.ansiBrightGreen": "#7FC697",
     "terminal.ansiBrightMagenta": "#ca90d0",
     "terminal.ansiBrightRed": "#E06C75",
     "terminal.ansiBrightWhite": "#ADB1C5",
     "terminal.ansiBrightYellow": "#C9B999",
-    "terminal.ansiCyan": "#7FC697",
-    "terminal.ansiGreen": "#56B6C2",
+    "terminal.ansiCyan": "#56B6C2",
+    "terminal.ansiGreen": "#7FC697",
     "terminal.ansiMagenta": "#ca90d0",
     "terminal.ansiRed": "#E06C75",
     "terminal.ansiWhite": "#ADB1C5",
@@ -189,11 +189,11 @@
     "textLink.foreground": "#546ad9",
     "textLink.activeForeground": "#546ad9",
     "progressBar.background": "#546ad9",
-    "gitDecoration.addedResourceForeground": "#7FC697",
+    "gitDecoration.addedResourceForeground": "#56B6C2",
     "gitDecoration.modifiedResourceForeground": "#C9B999",
     "gitDecoration.deletedResourceForeground": "#E06C75",
-    "gitDecoration.renamedResourceForeground": "#7FC697",
-    "gitDecoration.untrackedResourceForeground": "#7FC697",
+    "gitDecoration.renamedResourceForeground": "#56B6C2",
+    "gitDecoration.untrackedResourceForeground": "#56B6C2",
     "gitDecoration.ignoredResourceForeground": "#303550",
     "gitDecoration.stageModifiedResourceForeground": "#C9B999",
     "gitDecoration.stageDeletedResourceForeground": "#E06C75",
@@ -248,7 +248,7 @@
       "name": "Embeded String",
       "scope": "string.embedded",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -262,7 +262,7 @@
       "name": "User-defined constant",
       "scope": "constant.character, constant.other, variable.other.constant",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -326,7 +326,7 @@
       "name": "Storage type C#",
       "scope": "source.cs storage.type",
       "settings": {
-        "foreground": "#7FC697",
+        "foreground": "#56B6C2",
         "background": ""
       }
     },
@@ -334,7 +334,7 @@
       "name": "Class name",
       "scope": "entity.name.class, entity.name.module, entity.name.type, storage.identifier,  support.class",
       "settings": {
-        "foreground": "#7FC697"
+        "foreground": "#56B6C2"
       }
     },
     {
@@ -390,7 +390,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -446,14 +446,14 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#7FC697"
+        "foreground": "#56B6C2"
       }
     },
     {
       "name": "Library class/type",
       "scope": "support.type, support.variable",
       "settings": {
-        "foreground": "#7FC697"
+        "foreground": "#56B6C2"
       }
     },
     {
@@ -537,7 +537,7 @@
       "name": "Stylesheet Tags",
       "scope": "entity.name.tag.css, entity.name.tag.scss, entity.name.tag.less, entity.name.tag.sass",
       "settings": {
-        "foreground": "#7FC697"
+        "foreground": "#56B6C2"
       }
     },
     {
@@ -558,7 +558,7 @@
       "name": "Stylesheet ID",
       "scope": "entity.other.attribute-name.id.css, entity.other.attribute-name.id.scss, entity.other.attribute-name.id.less, entity.other.attribute-name.id.sass",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -621,7 +621,7 @@
       "name": "Stylesheet Variables",
       "scope": "source.css variable.other",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -643,7 +643,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#7FC697",
+        "background": "#56B6C2",
         "foreground": "#F8F8F0"
       }
     },
@@ -672,7 +672,7 @@
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -685,7 +685,7 @@
     {
       "scope": "constant.numeric.line-number.find-in-files - match",
       "settings": {
-        "foreground": "#7FC697A0"
+        "foreground": "#56B6C2A0"
       }
     },
     {
@@ -705,7 +705,7 @@
       "name": "XML Namespace",
       "scope": "entity.name.tag.namespace.xml, entity.other.attribute-name.namespace.xml",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {
@@ -740,7 +740,7 @@
       "name": "HTML Id",
       "scope": "meta.attribute-with-value.id.html meta.toc-list.id.html, meta.attribute-with-value.id.html string.quoted.double.html",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#7FC697"
       }
     },
     {

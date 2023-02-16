@@ -1,6 +1,6 @@
 # Changelog
 
-#### v2.1.0
+#### v2.1.1
 
 - UI overhaul
 

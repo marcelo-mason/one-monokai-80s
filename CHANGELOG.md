@@ -1,9 +1,10 @@
 # Changelog
 
-#### v2.1.18
+#### v2.1.19
 
 - Interface text slightly less bright to match the darker panels
 - Touch more saturation on the button colors
+- General color tweaks
 
 #### v2.1.16
 

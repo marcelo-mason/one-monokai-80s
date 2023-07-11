@@ -1,5 +1,10 @@
 # Changelog
 
+#### v2.2.3
+
+- Brighter text selection colors
+- Green saturation tweak
+
 #### v2.2.2
 
 - Added original theme as option

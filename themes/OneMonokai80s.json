@@ -138,13 +138,13 @@
     "terminal.ansiBrightBlack": "#6F7887",
     "terminal.ansiBrightBlue": "#61A2EF",
     "terminal.ansiBrightCyan": "#56B6C2",
-    "terminal.ansiBrightGreen": "#81bb90",
+    "terminal.ansiBrightGreen": "#89bd97",
     "terminal.ansiBrightMagenta": "#ca90d0",
     "terminal.ansiBrightRed": "#E06C75",
     "terminal.ansiBrightWhite": "#ADB1C5",
     "terminal.ansiBrightYellow": "#C9B999",
     "terminal.ansiCyan": "#56B6C2",
-    "terminal.ansiGreen": "#81bb90",
+    "terminal.ansiGreen": "#89bd97",
     "terminal.ansiMagenta": "#ca90d0",
     "terminal.ansiRed": "#E06C75",
     "terminal.ansiWhite": "#ADB1C5",
@@ -257,7 +257,7 @@
       "name": "Embeded String",
       "scope": "string.embedded",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -271,7 +271,7 @@
       "name": "User-defined constant",
       "scope": "constant.character, constant.other, variable.other.constant",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -399,7 +399,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -567,7 +567,7 @@
       "name": "Stylesheet ID",
       "scope": "entity.other.attribute-name.id.css, entity.other.attribute-name.id.scss, entity.other.attribute-name.id.less, entity.other.attribute-name.id.sass",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -630,7 +630,7 @@
       "name": "Stylesheet Variables",
       "scope": "source.css variable.other",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -681,7 +681,7 @@
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -714,7 +714,7 @@
       "name": "XML Namespace",
       "scope": "entity.name.tag.namespace.xml, entity.other.attribute-name.namespace.xml",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {
@@ -749,7 +749,7 @@
       "name": "HTML Id",
       "scope": "meta.attribute-with-value.id.html meta.toc-list.id.html, meta.attribute-with-value.id.html string.quoted.double.html",
       "settings": {
-        "foreground": "#81bb90"
+        "foreground": "#89bd97"
       }
     },
     {

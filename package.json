@@ -2,8 +2,9 @@
   "name": "one-monokai-80s",
   "displayName": "One Monokai 80s Theme",
   "description": "Pleasing, subtle yet colorful theme with a flat interface made with eye comfort in mind.",
-  "version": "2.1.19",
+  "version": "2.2.2",
   "publisher": "axiomaticstudios",
+  "galleryBanner.color": "#22263a",
   "engines": {
     "vscode": "^0.10.1"
   },
@@ -17,6 +18,11 @@
         "label": "One Monokai 80s",
         "uiTheme": "vs-dark",
         "path": "./themes/OneMonokai80s.json"
+      },
+      {
+        "label": "One Monokai 80s Original",
+        "uiTheme": "vs",
+        "path": "./themes/OneMonokai80sOG.json"
       }
     ]
   },

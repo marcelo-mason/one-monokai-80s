@@ -1,5 +1,11 @@
 # Changelog
 
+#### v2.2.2
+
+- Added original theme as option
+- Upped visibility of git ignored files
+- Tweaked green
+
 #### v2.1.19
 
 - Interface text slightly less bright to match the darker panels

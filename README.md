@@ -1,6 +1,6 @@
 ## A cross between One Monokai and a Delorian
 
-##### A pleasing, subtle yet colorful low-contrast theme with a flat interface made with eye comfort in mind.
+##### A pleasing, subtle yet colorful theme with a flat interface made with eye comfort in mind.
 
 ![Interface Screenshot](media/interface.png)
 

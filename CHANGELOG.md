@@ -1,8 +1,13 @@
 # Changelog
 
-#### v2.2.3
+#### v2.2.4
 
 - Brighter text selection colors
+- Slightly brighter menus
+- Tweaked curently selected line color
+
+#### v2.2.3
+
 - Green saturation tweak
 
 #### v2.2.2

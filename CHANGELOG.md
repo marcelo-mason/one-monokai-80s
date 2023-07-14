@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.3.0
+
+- Added companion browser theme
+
 #### v2.2.4
 
 - Brighter text selection colors

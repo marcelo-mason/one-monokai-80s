@@ -1,0 +1,36 @@
+{
+	"name": "OneMonokai80s Browser Theme",
+	"description": "A pleasing, subtle dark theme made with eye comfort in mind.",
+  "manifest_version": 3,
+	"version": "1.0.0",
+	"icons": {
+		"16": "icon-16.png",
+		"48": "icon-48.png",
+		"128": "icon-128.png"
+	},
+	"theme": {
+		"colors": {
+			"background_tab": [11, 13, 34],
+			"background_tab_inactive": [11, 13, 34],
+			"background_tab_incognito": [11, 13, 34],
+			"background_tab_incognito_inactive": [11, 13, 34],
+			"bookmark_text": [150, 158, 192],
+			"frame": [11, 13, 34],
+			"frame_inactive": [11, 13, 34],
+			"frame_incognito": [11, 13, 34],
+			"frame_incognito_inactive": [11, 13, 34],
+			"ntp_background": [11, 13, 34],
+			"ntp_text": [165, 175, 201],
+			"omnibox_background": [34, 38, 58],
+			"omnibox_text": [235, 235, 255],
+			"tab_background_text": [121, 131, 175],
+			"tab_background_text_inactive": [121, 131, 175],
+			"tab_background_text_incognito": [121, 131, 175],
+			"tab_background_text_incognito_inactive": [78, 88, 134],
+			"tab_text": [219, 219, 255],
+			"toolbar": [40, 45, 67],
+			"toolbar_button_icon": [121, 131, 175],
+			"toolbar_text": [196, 208, 239]
+		}
+	}
+}

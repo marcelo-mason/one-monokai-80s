@@ -1,8 +1,8 @@
 # Changelog
 
-#### v2.3.1
+#### v2.3.2
 
-- Slightly lowered saturation of editor background and line numbers to better highlight code colors
+- Tweaked editor background and selection color to better highlight code colors
 
 #### v2.3.0
 

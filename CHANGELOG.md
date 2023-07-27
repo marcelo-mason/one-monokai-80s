@@ -1,8 +1,9 @@
 # Changelog
 
-#### v2.3.2
+#### v2.3.3
 
-- Tweaked editor background and selection color to better highlight code colors
+- Tweaked editor background for better cohesion
+- Fixed light/OG theme missing colors
 
 #### v2.3.0
 

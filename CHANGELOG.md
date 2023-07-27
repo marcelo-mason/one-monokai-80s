@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.3.1
+
+- Slightly lowered saturation of editor background and line numbers to better highlight code colors
+
 #### v2.3.0
 
 - Added companion browser theme

@@ -1,8 +1,13 @@
 # Changelog
 
+#### v2.4.0
+
+- Tweaked editor background and foreground colors for better cohesion (toward blue away from reds)
+- Tweaked selection colors
+
 #### v2.3.3
 
-- Tweaked editor background for better cohesion
+- Darkened editor background for slightly more contrast
 - Fixed light/OG theme missing colors
 
 #### v2.3.0

@@ -139,14 +139,14 @@
     "terminal.ansiBrightBlack": "#6F7887",
     "terminal.ansiBrightBlue": "#61A2EF",
     "terminal.ansiBrightCyan": "#56B6C2",
-    "terminal.ansiBrightGreen": "#89bd97",
-    "terminal.ansiBrightMagenta": "#ca90d0",
+    "terminal.ansiBrightGreen": "#86bb94",
+    "terminal.ansiBrightMagenta": "#c88ccf",
     "terminal.ansiBrightRed": "#E06C75",
     "terminal.ansiBrightWhite": "#a9b1c6",
     "terminal.ansiBrightYellow": "#C9B999",
     "terminal.ansiCyan": "#56B6C2",
-    "terminal.ansiGreen": "#89bd97",
-    "terminal.ansiMagenta": "#ca90d0",
+    "terminal.ansiGreen": "#86bb94",
+    "terminal.ansiMagenta": "#c88ccf",
     "terminal.ansiRed": "#E06C75",
     "terminal.ansiWhite": "#a9b1c6",
     "terminal.ansiYellow": "#C9B999",
@@ -199,8 +199,8 @@
     "gitDecoration.ignoredResourceForeground": "#576181",
     "gitDecoration.stageModifiedResourceForeground": "#C9B999",
     "gitDecoration.stageDeletedResourceForeground": "#E06C75",
-    "gitDecoration.conflictingResourceForeground": "#ca90d0",
-    "gitDecoration.submoduleResourceForeground": "#ca90d0"
+    "gitDecoration.conflictingResourceForeground": "#c88ccf",
+    "gitDecoration.submoduleResourceForeground": "#c88ccf"
   },
   "tokenColors": [
     {
@@ -258,7 +258,7 @@
       "name": "Embeded String",
       "scope": "string.embedded",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
@@ -272,7 +272,7 @@
       "name": "User-defined constant",
       "scope": "constant.character, constant.other, variable.other.constant",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
@@ -393,28 +393,28 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
       "name": "Builtin Functions",
       "scope": "function.support.builtin, function.support.core",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -428,7 +428,7 @@
       "name": "Tag Class and ID",
       "scope": "entity.name.tag.class",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -442,14 +442,14 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
       "name": "Library function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -491,14 +491,14 @@
       "name": "StyleSheet Property value",
       "scope": "support.constant.css, support.constant.scss, support.constant.less, support.constant.sass",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
       "name": "StyleSheet Variable",
       "scope": "variable.css, variable.scss, variable.less, variable.sass",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -533,14 +533,14 @@
       "name": "StyleSheet Support Constant",
       "scope": "source.css support.constant",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
       "name": "StyleSheet Function",
       "scope": "function.css, function.scss, function.less, function.sass",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -568,7 +568,7 @@
       "name": "Stylesheet ID",
       "scope": "entity.other.attribute-name.id.css, entity.other.attribute-name.id.scss, entity.other.attribute-name.id.less, entity.other.attribute-name.id.sass",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
@@ -617,7 +617,7 @@
       "name": "Stylesheet Support Functions",
       "scope": "source.css support.function",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -631,7 +631,7 @@
       "name": "Stylesheet Variables",
       "scope": "source.css variable.other",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
@@ -682,7 +682,7 @@
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
@@ -715,7 +715,7 @@
       "name": "XML Namespace",
       "scope": "entity.name.tag.namespace.xml, entity.other.attribute-name.namespace.xml",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "XML Attribute",
       "scope": "entity.other.attribute-name.xml, entity.other.attribute-name.localname.xml,entity.other.attribute-name.html",
       "settings": {
-        "foreground": "#ca90d0"
+        "foreground": "#c88ccf"
       }
     },
     {
@@ -750,7 +750,7 @@
       "name": "HTML Id",
       "scope": "meta.attribute-with-value.id.html meta.toc-list.id.html, meta.attribute-with-value.id.html string.quoted.double.html",
       "settings": {
-        "foreground": "#89bd97"
+        "foreground": "#86bb94"
       }
     },
     {

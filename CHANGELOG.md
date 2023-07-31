@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.4.2
+
+- Adjusted pink and green to match bg better
+
 #### v2.4.1
 
 - Tweaked editor background and foreground colors for better cohesion (toward blue away from reds)

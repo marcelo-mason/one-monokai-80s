@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.4.3
+
+- Slight white text tweak
+
 #### v2.4.2
 
 - Adjusted pink and green to match bg better

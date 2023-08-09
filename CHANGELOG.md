@@ -1,6 +1,6 @@
 # Changelog
 
-#### v2.4.3
+#### v2.4.4
 
 - Slight white text tweak
 

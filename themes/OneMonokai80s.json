@@ -134,6 +134,7 @@
     "list.inactiveSelectionBackground": "#0b0d22",
     "list.invalidItemForeground": "#E06C75",
     "explorer.deemphasizedForeground": "#c8d5f3",
+    "terminal.foreground": "#aab2c5",
     "terminal.ansiBlack": "#6F7887",
     "terminal.ansiBlue": "#61A2EF",
     "terminal.ansiBrightBlack": "#6F7887",

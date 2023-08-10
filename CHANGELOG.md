@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.4.6
+
+- Added default terminal foreground color
+
 #### v2.4.5
 
 - Slight white text tweak

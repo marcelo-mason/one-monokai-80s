@@ -1,5 +1,10 @@
 # Changelog
 
+#### v2.5.2
+
+- True boolean light blue
+- Bracket colors match other blues
+
 #### v2.5.1
 
 - Updated pink to remove blue tinge

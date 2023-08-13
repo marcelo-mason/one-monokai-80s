@@ -75,11 +75,11 @@
     "editorBracketMatch.border": "#404968B0",
     "editorBracketMatch.background": "#303656",
     "editorBracketHighlight.foreground1": "#aab2c5",
-    "editorBracketHighlight.foreground2": "#617DEF",
+    "editorBracketHighlight.foreground2": "#61A2EF",
     "editorBracketHighlight.foreground3": "#aab2c5",
-    "editorBracketHighlight.foreground4": "#617DEF",
+    "editorBracketHighlight.foreground4": "#61A2EF",
     "editorBracketHighlight.foreground5": "#aab2c5",
-    "editorBracketHighlight.foreground6": "#617DEF",
+    "editorBracketHighlight.foreground6": "#61A2EF",
     "editorBracketPairGuide.activeBackground1": "#aab2c538",
     "editorBracketPairGuide.activeBackground2": "#6182EF38",
     "editorBracketPairGuide.activeBackground3": "#aab2c538",
@@ -267,6 +267,13 @@
       "scope": "constant.language",
       "settings": {
         "foreground": "#61A2EF"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant.language.boolean.true",
+      "settings": {
+        "foreground": "#5dbeef"
       }
     },
     {

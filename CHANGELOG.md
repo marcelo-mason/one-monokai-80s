@@ -1,5 +1,11 @@
 # Changelog
 
+#### v2.5.0
+
+- Updated pink to remove blue tinge
+- Constants are now red
+- Tag classes are now purple
+
 #### v2.4.6
 
 - Added default terminal foreground color

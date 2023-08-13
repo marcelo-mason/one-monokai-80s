@@ -1,10 +1,11 @@
 # Changelog
 
-#### v2.5.0
+#### v2.5.1
 
 - Updated pink to remove blue tinge
-- Constants are now red
+- Removed green color from user defined constants
 - Tag classes are now purple
+- Falsy constants red
 
 #### v2.4.6
 

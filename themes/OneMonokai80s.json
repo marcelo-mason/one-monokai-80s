@@ -270,10 +270,24 @@
       }
     },
     {
+      "name": "Built-in constant falsy",
+      "scope": "constant.language.boolean.false, constant.language.null, constant.language.nan, constant.language.undefined",
+      "settings": {
+        "foreground": "#e77495"
+      }
+    },
+    {
+      "name": "Built-in constant import/export all",
+      "scope": "constant.language.import-export-all",
+      "settings": {
+        "foreground": "#aab2c5"
+      }
+    },
+    {
       "name": "User-defined constant",
       "scope": "constant.character, constant.other, variable.other.constant",
       "settings": {
-        "foreground": "#e77495"
+        "foreground": "#aab2c5"
       }
     },
     {

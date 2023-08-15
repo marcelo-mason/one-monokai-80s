@@ -1,3 +1,4 @@
 *.vsix
 \.vscode/settings\.json
 *.pak
+.aider*

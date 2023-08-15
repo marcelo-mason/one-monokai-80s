@@ -1,8 +1,7 @@
 # Changelog
 
-#### v2.5.2
+#### v2.5.3
 
-- True boolean light blue
 - Bracket colors match other blues
 
 #### v2.5.1

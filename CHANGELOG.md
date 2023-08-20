@@ -1,8 +1,9 @@
 # Changelog
 
-#### v2.5.4
+#### v2.5.5
 
 - Tweaked pink saturation
+- Tweaked red saturation
 
 #### v2.5.3
 

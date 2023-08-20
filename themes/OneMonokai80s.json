@@ -3,7 +3,7 @@
   "colors": {
     "foreground": "#aab2c5",
     "focusBorder": "#282d4300",
-    "errorForeground": "#e77383",
+    "errorForeground": "#e57685",
     "disabledForeground": "#6b7794",
     "badge.background": "#303550",
     "widget.shadow": "#00000000",
@@ -92,8 +92,8 @@
     "editorBracketPairGuide.background4": "#6182EF38",
     "editorBracketPairGuide.background5": "#aab2c538",
     "editorBracketPairGuide.background6": "#6182EF38",
-    "inputValidation.errorBackground": "#e77383",
-    "inputValidation.errorBorder": "#e77383",
+    "inputValidation.errorBackground": "#e57685",
+    "inputValidation.errorBorder": "#e57685",
     "inputValidation.errorForeground": "#E8DCDE",
     "inputValidation.infoBackground": "#61A2EF",
     "inputValidation.infoBorder": "#61A2EF",
@@ -101,16 +101,16 @@
     "inputValidation.warningBackground": "#E0936C",
     "inputValidation.warningBorder": "#E0936C",
     "inputValidation.warningForeground": "#EFDFD8",
-    "minimap.errorHighlight": "#e77383",
+    "minimap.errorHighlight": "#e57685",
     "minimap.warningHighlight": "#E09A6C",
     "list.highlightForeground": "#61A2EF",
     "list.focusHighlightForeground": "#61A2EF",
-    "list.errorForeground": "#e77383",
+    "list.errorForeground": "#e57685",
     "list.warningForeground": "#E09A6C",
-    "problemsErrorIcon.foreground": "#e77383",
+    "problemsErrorIcon.foreground": "#e57685",
     "problemsWarningIcon.foreground": "#E09A6C",
     "problemsInfoIcon.foreground": "#6CCBE0",
-    "editorError.foreground": "#e77383",
+    "editorError.foreground": "#e57685",
     "editorWarning.foreground": "#E09A6C",
     "editorInfo.foreground": "#6CCBE0",
     "editorError.background": "#00000000",
@@ -132,7 +132,7 @@
     "list.focusBackground": "#0b0d22",
     "list.hoverBackground": "#1f2237",
     "list.inactiveSelectionBackground": "#0b0d22",
-    "list.invalidItemForeground": "#e77383",
+    "list.invalidItemForeground": "#e57685",
     "explorer.deemphasizedForeground": "#c8d5f3",
     "terminal.foreground": "#aab2c5",
     "terminal.ansiBlack": "#6F7887",
@@ -142,13 +142,13 @@
     "terminal.ansiBrightCyan": "#56B6C2",
     "terminal.ansiBrightGreen": "#86bb94",
     "terminal.ansiBrightMagenta": "#d392d3",
-    "terminal.ansiBrightRed": "#e77383",
+    "terminal.ansiBrightRed": "#e57685",
     "terminal.ansiBrightWhite": "#aab2c5",
     "terminal.ansiBrightYellow": "#C9B999",
     "terminal.ansiCyan": "#56B6C2",
     "terminal.ansiGreen": "#86bb94",
     "terminal.ansiMagenta": "#d392d3",
-    "terminal.ansiRed": "#e77383",
+    "terminal.ansiRed": "#e57685",
     "terminal.ansiWhite": "#aab2c5",
     "terminal.ansiYellow": "#C9B999",
     "statusBar.background": "#0b0d22",
@@ -194,12 +194,12 @@
     "progressBar.background": "#505FAB",
     "gitDecoration.addedResourceForeground": "#56B6C2",
     "gitDecoration.modifiedResourceForeground": "#C9B999",
-    "gitDecoration.deletedResourceForeground": "#e77383",
+    "gitDecoration.deletedResourceForeground": "#e57685",
     "gitDecoration.renamedResourceForeground": "#56B6C2",
     "gitDecoration.untrackedResourceForeground": "#56B6C2",
     "gitDecoration.ignoredResourceForeground": "#576181",
     "gitDecoration.stageModifiedResourceForeground": "#C9B999",
-    "gitDecoration.stageDeletedResourceForeground": "#e77383",
+    "gitDecoration.stageDeletedResourceForeground": "#e57685",
     "gitDecoration.conflictingResourceForeground": "#d392d3",
     "gitDecoration.submoduleResourceForeground": "#d392d3"
   },
@@ -280,7 +280,7 @@
       "name": "Built-in constant falsy",
       "scope": "constant.language.boolean.false, constant.language.null, constant.language.nan, constant.language.undefined",
       "settings": {
-        "foreground": "#e77383"
+        "foreground": "#e57685"
       }
     },
     {
@@ -667,7 +667,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#e77383",
+        "background": "#e57685",
         "foreground": "#F8F8F0"
       }
     },
@@ -697,7 +697,7 @@
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#e77383"
+        "foreground": "#e57685"
       }
     },
     {

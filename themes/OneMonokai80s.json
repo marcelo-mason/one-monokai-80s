@@ -141,13 +141,13 @@
     "terminal.ansiBrightBlue": "#61A2EF",
     "terminal.ansiBrightCyan": "#56B6C2",
     "terminal.ansiBrightGreen": "#86bb94",
-    "terminal.ansiBrightMagenta": "#d491d4",
+    "terminal.ansiBrightMagenta": "#d392d3",
     "terminal.ansiBrightRed": "#e77383",
     "terminal.ansiBrightWhite": "#aab2c5",
     "terminal.ansiBrightYellow": "#C9B999",
     "terminal.ansiCyan": "#56B6C2",
     "terminal.ansiGreen": "#86bb94",
-    "terminal.ansiMagenta": "#d491d4",
+    "terminal.ansiMagenta": "#d392d3",
     "terminal.ansiRed": "#e77383",
     "terminal.ansiWhite": "#aab2c5",
     "terminal.ansiYellow": "#C9B999",
@@ -200,8 +200,8 @@
     "gitDecoration.ignoredResourceForeground": "#576181",
     "gitDecoration.stageModifiedResourceForeground": "#C9B999",
     "gitDecoration.stageDeletedResourceForeground": "#e77383",
-    "gitDecoration.conflictingResourceForeground": "#d491d4",
-    "gitDecoration.submoduleResourceForeground": "#d491d4"
+    "gitDecoration.conflictingResourceForeground": "#d392d3",
+    "gitDecoration.submoduleResourceForeground": "#d392d3"
   },
   "tokenColors": [
     {
@@ -415,7 +415,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
@@ -429,14 +429,14 @@
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
       "name": "Builtin Functions",
       "scope": "function.support.builtin, function.support.core",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
@@ -471,7 +471,7 @@
       "name": "Library function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
@@ -513,14 +513,14 @@
       "name": "StyleSheet Property value",
       "scope": "support.constant.css, support.constant.scss, support.constant.less, support.constant.sass",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
       "name": "StyleSheet Variable",
       "scope": "variable.css, variable.scss, variable.less, variable.sass",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
@@ -555,14 +555,14 @@
       "name": "StyleSheet Support Constant",
       "scope": "source.css support.constant",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
       "name": "StyleSheet Function",
       "scope": "function.css, function.scss, function.less, function.sass",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
@@ -639,7 +639,7 @@
       "name": "Stylesheet Support Functions",
       "scope": "source.css support.function",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {
@@ -758,7 +758,7 @@
       "name": "XML Attribute",
       "scope": "entity.other.attribute-name.xml, entity.other.attribute-name.localname.xml,entity.other.attribute-name.html",
       "settings": {
-        "foreground": "#d491d4"
+        "foreground": "#d392d3"
       }
     },
     {

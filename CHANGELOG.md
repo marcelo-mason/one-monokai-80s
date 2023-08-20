@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.5.4
+
+- Tweaked pink saturation
+
 #### v2.5.3
 
 - Bracket colors match other blues

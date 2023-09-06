@@ -38,6 +38,8 @@
     "panelTitle.activeBorder": "#1f223700",
     "panelTitle.activeForeground": "#c8d5f3",
     "panelTitle.inactiveForeground": "#6b7794",
+    "debugToolBar.background": "#1f2237",
+    "debugToolBar.border": "#1f2237",
     "editor.background": "#1f2237",
     "editor.foreground": "#aab2c5",
     "editor.selectionBackground": "#303656",

@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.5.6
+
+- Themed run/debug toolbar to blend into the editor
+
 #### v2.5.5
 
 - Tweaked pink saturation

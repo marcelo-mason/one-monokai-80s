@@ -1,6 +1,6 @@
 # Changelog
 
-#### v2.5.7
+#### v2.5.8
 
 - Reduced sidebar text brightness
 - Increased tree indent guide brightness

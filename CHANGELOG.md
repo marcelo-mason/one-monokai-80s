@@ -1,5 +1,10 @@
 # Changelog
 
+#### v2.5.7
+
+- Reduced sidebar text brightness
+- Increased tree indent guide brightness
+
 #### v2.5.6
 
 - Themed run/debug toolbar to blend into the editor

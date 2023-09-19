@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.5.9
+
+- Deeper sidebar color
+
 #### v2.5.8
 
 - Reduced sidebar text brightness

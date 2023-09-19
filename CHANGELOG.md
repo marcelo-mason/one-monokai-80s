@@ -1,6 +1,6 @@
 # Changelog
 
-#### v2.5.9
+#### v2.5.10
 
 - Deeper sidebar color
 

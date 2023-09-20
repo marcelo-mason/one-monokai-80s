@@ -1,6 +1,6 @@
 # Changelog
 
-#### v2.5.13
+#### v2.5.14
 
 - Deeper sidebar color
 - Tweaked pink

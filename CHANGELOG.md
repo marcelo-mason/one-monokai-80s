@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.6.2
+
+- White text tweak
+
 #### v2.6.1
 
 - Deeper sidebar color

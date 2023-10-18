@@ -1,27 +1,39 @@
 {
-  "name": "one-monokai-80s",
-  "displayName": "One Monokai 80s Theme",
-  "description": "Pleasing, subtle yet colorful theme with a flat interface made with eye comfort in mind.",
-  "version": "2.6.2",
-  "publisher": "axiomaticstudios",
+  "license": "MIT",
+  "version": "2.6.3",
   "galleryBanner.color": "#22263a",
-  "engines": {
-    "vscode": "^0.10.1"
-  },
+  "name": "one-monokai-80s",
+  "author": "Marcelo Delgado",
+  "publisher": "axiomaticstudios",
+  "icon": "./media/icon.png",
+  "displayName": "One Monokai 80s Theme",
+  "homepage": "https://github.com/marcelo-mason/one-monokai-80s/blob/master/README.md",
+  "description": "Pleasing, subtle yet colorful theme with a flat interface made with eye comfort in mind.",
   "categories": [
     "Themes"
   ],
-  "icon": "./media/icon.png",
+  "keywords": [
+    "eye",
+    "eye comfort",
+    "eye strain",
+    "low contrast",
+    "monokai",
+    "pastel",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "^0.10.1"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "One Monokai 80s",
         "uiTheme": "vs-dark",
+        "label": "One Monokai 80s",
         "path": "./themes/OneMonokai80s.json"
       },
       {
-        "label": "One Monokai 80s Original",
         "uiTheme": "vs",
+        "label": "One Monokai 80s Original",
         "path": "./themes/OneMonokai80sOG.json"
       }
     ]
@@ -32,17 +44,5 @@
   },
   "bugs": {
     "url": "https://github.com/marcelo-mason/one-monokai-80s/issues"
-  },
-  "homepage": "https://github.com/marcelo-mason/one-monokai-80s/blob/master/README.md",
-  "keywords": [
-    "theme",
-    "pastel",
-    "eye",
-    "eye comfort",
-    "eye strain",
-    "low contrast",
-    "monokai"
-  ],
-  "author": "Marcelo Delgado",
-  "license": "MIT"
+  }
 }

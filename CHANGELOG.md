@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.6.3
+
+- Unfocused inactive tab foreground same as focused for easy tab scanning
+
 #### v2.6.2
 
 - White text tweak

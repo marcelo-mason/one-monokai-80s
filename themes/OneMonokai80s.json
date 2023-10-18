@@ -694,6 +694,7 @@
     "tab.inactiveBackground": "#0c0e1d",
     "tab.inactiveForeground": "#6b7794",
     "tab.unfocusedActiveForeground": "#6b7794",
+    "tab.unfocusedInactiveForeground": "#6b7794",
     "list.activeSelectionBackground": "#0c0e1d",
     "list.dropBackground": "#505FAB",
     "list.focusBackground": "#0c0e1d",

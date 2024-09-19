@@ -1,5 +1,9 @@
 # Changelog
 
+#### v2.6.6
+
+- Lowered darkness of dark panels
+
 #### v2.6.4
 
 - Unfocused inactive tab foreground same as focused for easy tab scanning
